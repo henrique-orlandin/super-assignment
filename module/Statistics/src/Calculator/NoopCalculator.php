@@ -16,6 +16,7 @@ class NoopCalculator extends AbstractCalculator
      * @var array
      */
     private $users = [];
+    
     /**
      * total number of posts
      *
